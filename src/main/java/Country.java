@@ -35,7 +35,7 @@ public class Country {
         countryShow += "Name : " + this.name + "\n";
         countryShow += "Capital : " + this.capital + "\n";
         countryShow += "Population : " + this.population + "\n";
-        countryShow += "Area : " + this.area + "\n";
+        countryShow += "Area (km2): " + this.area + "\n";
 
         return countryShow;
     }
