@@ -39,7 +39,7 @@ public class Parser {
     public static void setUp() throws IOException {
 
         //Parse the HTML file using Jsoup
-        File htmlFile = new File("D:/usb/ap/assignment/a4/Fourth-Assignment-HTML-Parser/src/Resources/country-list.html");
+        File htmlFile = new File("src/Resources/country-list.html");
         Document document = Jsoup.parse(htmlFile, "UTF-8");
 
         // Extract data from the HTML

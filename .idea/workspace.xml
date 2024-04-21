@@ -103,7 +103,7 @@
       <recent name="E:\homework\semester 4\TA\HTML-Parser\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Parser">
+  <component name="RunManager">
     <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Parser" />
       <module name="HTML-Parser.main" />
